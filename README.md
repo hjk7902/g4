@@ -15,8 +15,8 @@
 
 
 ## 참고 URL
-* https://github.com/hjk7902/java2ai
-* https://github.com/hjk7902/ai
-* https://arxiv.org/pdf/1804.02767
-* https://javaspecialist.co.kr/board/1244
-* https://www.tensorflow.org/install/gpu?hl=ko
+* 자바와 파이썬 AI 서버 연결: https://github.com/hjk7902/java2ai
+* 인공지능: https://github.com/hjk7902/ai
+* YOLOv3 논문: https://arxiv.org/pdf/1804.02767
+* 윈도우 10에서 GPU 사용하기: https://javaspecialist.co.kr/board/1244
+* 텐서플로우 GPU 사용 가이드: https://www.tensorflow.org/install/gpu?hl=ko
