@@ -20,3 +20,5 @@
 * YOLOv3 논문: https://arxiv.org/pdf/1804.02767
 * 윈도우 10에서 GPU 사용하기: https://javaspecialist.co.kr/board/1244
 * 텐서플로우 GPU 사용 가이드: https://www.tensorflow.org/install/gpu?hl=ko
+* GoogLeNet논문: https://arxiv.org/pdf/1409.4842
+* 
