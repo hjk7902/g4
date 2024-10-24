@@ -27,15 +27,15 @@
 ## 실시간 객체탐지 예제코드를 실행하려면 tensowflow 2.14 이하 버전이 있어야 합니다.
 아나콘다를 2022년 버전을 설치하거나... 다음 절차를 따르세요.
 
-1. 가상환경 추가
-conda create -n tf2.14 python=3.11
-conda activate tf2.14
+### 1. 가상환경 추가
+* conda create -n tf2.14 python=3.11
+* conda activate tf2.14
 
-2. 주피터노트북 ipykernel 추가
-pip install ipykernel
-ipython kernel install --name=tf.214 --user
+### 2. 주피터노트북 ipykernel 추가
+* pip install ipykernel
+* ipython kernel install --name=tf.214 --user
 
-3. 라이브러리 설치
-python -m pip install pip==23.0   <- pip 버전을 다운그래이드 해야 텐서플로우 2.14 설치 가능
-pip install tensorflow==2.14 
-pip install opencv-python scikit-learn pandas nltk ipywidgets tqdm datasets
+### 3. 라이브러리 설치
+* python -m pip install pip==23.0   <- pip 버전을 다운그래이드 해야 텐서플로우 2.14 설치 가능
+* pip install tensorflow==2.14 
+* pip install opencv-python scikit-learn pandas nltk ipywidgets tqdm datasets
