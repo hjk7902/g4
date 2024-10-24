@@ -33,7 +33,7 @@
 
 ### 2. 주피터노트북 ipykernel 추가
 * pip install ipykernel
-* ipython kernel install --name=tf.214 --user
+* ipython kernel install --name=tf2.14 --user
 
 ### 3. 라이브러리 설치
 * python -m pip install pip==23.0   <- pip 버전을 다운그래이드 해야 텐서플로우 2.14 설치 가능
