@@ -39,3 +39,4 @@
 * python -m pip install pip==23.0   <- pip 버전을 다운그래이드 해야 텐서플로우 2.14 설치 가능
 * pip install tensorflow==2.14 
 * pip install opencv-python scikit-learn pandas nltk ipywidgets tqdm datasets
+* pip install "numpy<2.0"
